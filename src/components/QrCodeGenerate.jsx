@@ -42,9 +42,9 @@ const QrCodeGenerate = () => {
 
   return (
     <div>
-      <div className="wrapper max-w-md mx-auto mt-32 p-6 bg-white shadow-lg rounded-lg">
+      <div className="wrapper max-w-md mx-auto p-6 bg-slate-100  shadow-lg rounded-lg">
         <header className="text-center mb-6">
-          <h1 className="text-3xl font-bold text-gray-800">
+          <h1 className="text-3xl font-bold text-gray-900">
             QR Code Generator
           </h1>
           <p className="text-gray-600 mt-2">
