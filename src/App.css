@@ -1,18 +1,18 @@
 body {
   background-image: radial-gradient(
     circle,
-    #d16ba5,
-    #c777b9,
-    #ba83ca,
-    #aa8fd8,
-    #9a9ae1,
-    #8aa7eb,
-    #79b3fb,
-    #69bffb,
-    #52cffb,
-    #41dffb,
-    #46eefb,
-    #5ffbfb
+    #5f2c8f, /* Darker purple */
+    #6a3b99, /* Slightly lighter purple */
+    #7a4ab3, /* Medium purple */
+    #8a5bc7, /* Soft lavender */
+    #9a6cdb, /* Lighter lavender */
+    #a77fd0, /* Light purple */
+    #b88dd6, /* Faint purple */
+    #c09ee2, /* Soft pastel purple */
+    #d2b8f1, /* Very light purple */
+    #e4c9f6, /* Pale lavender */
+    #e6daf9, /* Almost white lavender */
+    #f0e8fc  /* Faint light blue */
   );
 }
 
